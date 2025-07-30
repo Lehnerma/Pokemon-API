@@ -1,0 +1,187 @@
+{
+  "typen": ["Normal", "Pflanze", "Feuer", "Wasser", "Elektro", "Kampf", "Flug", "Gift", "Boden", "Stein", "Käfer", "Eis", "Psycho", "Geist", "Drache", "Unlicht", "Stahl", "Fee"],
+  "angriff": {
+    "Normal": {
+      "vorteil": [],
+      "nachteil": ["stein", "stahl"],
+      "wirkungslos": ["geist"]
+    },
+    "Pflanze": {
+      "vorteil": ["wasser", "boden", "stein"],
+      "nachteil": ["pflanze", "feuer", "flug", "gift", "käfer", "drache", "stahl"],
+      "wirkungslos": []
+    },
+    "Feuer": {
+      "vorteil": ["pflanze", "käfer", "eis", "stahl"],
+      "nachteil": ["feuer", "wasser", "stein", "drache"],
+      "wirkungslos": []
+    },
+    "Wasser": {
+      "vorteil": ["feuer", "boden", "stein"],
+      "nachteil": ["pflanze", "wasser", "drache"],
+      "wirkungslos": []
+    },
+    "Elektro": {
+      "vorteil": ["wasser", "flug"],
+      "nachteil": ["pflanze", "elektro", "drache"],
+      "wirkungslos": ["boden"]
+    },
+    "Kampf": {
+      "vorteil": ["normal", "stein", "eis", "unlicht", "stahl"],
+      "nachteil": ["flug", "gift", "käfer", "psycho", "fee"],
+      "wirkungslos": ["geist"]
+    },
+    "Flug": {
+      "vorteil": ["pflanze", "kampf", "käfer"],
+      "nachteil": ["elektro", "stein", "stahl"],
+      "wirkungslos": []
+    },
+    "Gift": {
+      "vorteil": ["pflanze", "fee"],
+      "nachteil": ["gift", "boden", "stein", "geist"],
+      "wirkungslos": ["stahl"]
+    },
+    "Boden": {
+      "vorteil": ["feuer", "elektro", "gift", "stein", "stahl"],
+      "nachteil": ["pflanze", "käfer"],
+      "wirkungslos": ["flug"]
+    },
+    "Stein": {
+      "vorteil": ["feuer", "flug", "käfer", "eis"],
+      "nachteil": ["kampf", "boden", "stahl"],
+      "wirkungslos": []
+    },
+    "Käfer": {
+      "vorteil": ["pflanze", "psycho", "unlicht"],
+      "nachteil": ["feuer", "kampf", "flug", "gift", "geist", "stahl", "fee"],
+      "wirkungslos": []
+    },
+    "Eis": {
+      "vorteil": ["pflanze", "flug", "boden", "drache"],
+      "nachteil": ["feuer", "wasser", "eis", "stahl"],
+      "wirkungslos": []
+    },
+    "Psycho": {
+      "vorteil": ["kampf", "gift"],
+      "nachteil": ["psycho", "stahl"],
+      "wirkungslos": ["unlicht"]
+    },
+    "Geist": {
+      "vorteil": ["psycho", "geist"],
+      "nachteil": ["unlicht"],
+      "wirkungslos": ["normal"]
+    },
+    "Drache": {
+      "vorteil": ["drache"],
+      "nachteil": ["stahl"],
+      "wirkungslos": ["fee"]
+    },
+    "Unlicht": {
+      "vorteil": ["psycho", "geist"],
+      "nachteil": ["kampf", "unlicht", "fee"],
+      "wirkungslos": []
+    },
+    "Stahl": {
+      "vorteil": ["geist", "eis", "fee"],
+      "nachteil": ["feuer", "wasser", "elektro", "stahl"],
+      "wirkungslos": []
+    },
+    "Fee": {
+      "vorteil": ["kampf", "drache", "unlicht"],
+      "nachteil": ["feuer", "gift", "stahl"],
+      "wirkungslos": []
+    }
+  },
+  "Verteidigung": {
+    "normal": {
+      "halbiert": [],
+      "doppelt": ["stein"],
+      "wirkungslos": ["geist"]
+    },
+    "Pflanze": {
+      "halbiert": ["pflanze", "wasser", "elektro", "boden"],
+      "doppelt": ["feuer", "flug", "gift", "käfer", "eis"],
+      "wirkungslos": []
+    },
+    "Feuer": {
+      "halbiert": ["pflanze", "feuer", "käfer", "eis", "stahl", "fee"],
+      "doppelt": ["wasser", "boden", "stein", "drache"],
+      "wirkungslos": []
+    },
+    "Wasser": {
+      "halbiert": ["feuer", "wasser", "eis", "stahl"],
+      "doppelt": ["pflanze", "elektro"],
+      "wirkungslos": []
+    },
+    "Elektro": {
+      "halbiert": ["elektro", "flug", "stahl"],
+      "doppelt": ["boden"],
+      "wirkungslos": []
+    },
+    "Kampf": {
+      "halbiert": ["stein", "käfer", "unlicht"],
+      "doppelt": ["flug", "psycho", "fee"],
+      "wirkungslos": []
+    },
+    "Flug": {
+      "halbiert": ["pflanze", "kampf", "käfer"],
+      "doppelt": ["elektro", "stein", "eis"],
+      "wirkungslos": ["boden"]
+    },
+    "Gift": {
+      "halbiert": ["pflanze", "kampf", "gift", "käfer", "fee"],
+      "doppelt": ["boden", "psycho"],
+      "wirkungslos": []
+    },
+    "Boden": {
+      "halbiert": ["gift", "stein"],
+      "doppelt": ["pflanze", "wasser", "eis"],
+      "wirkungslos": ["elektro"]
+    },
+    "Stein": {
+      "halbiert": ["normal", "feuer", "flug", "gift"],
+      "doppelt": ["pflanze", "wasser", "kampf", "boden", "stahl"],
+      "wirkungslos": []
+    },
+    "Käfer": {
+      "halbiert": ["pflanze", "kampf"],
+      "doppelt": ["feuer", "flug", "stein"],
+      "wirkungslos": []
+    },
+    "Eis": {
+      "halbiert": ["eis"],
+      "doppelt": ["feuer", "kampf", "stein", "stahl"],
+      "wirkungslos": []
+    },
+    "Psycho": {
+      "halbiert": ["kampf", "psycho"],
+      "doppelt": ["käfer", "geist", "unlicht"],
+      "wirkungslos": []
+    },
+    "Geist": {
+      "halbiert": ["gift", "käfer"],
+      "doppelt": ["geist", "unlicht"],
+      "wirkungslos": ["normal", "kampf"]
+    },
+    "Drache": {
+      "halbiert": ["pflanze", "feuer", "wasser", "elektro"],
+      "doppelt": ["eis", "drache", "fee"],
+      "wirkungslos": []
+    },
+    "Unlicht": {
+      "halbiert": ["geist", "unlicht"],
+      "doppelt": ["kampf", "käfer", "fee"],
+      "wirkungslos": ["psycho"]
+    },
+    "Stahl": {
+      "halbiert": ["normal", "pflanze", "flug", "stein", "käfer", "eis", "psycho", "drache", "stahl", "fee"],
+      "doppelt": ["feuer", "kampf", "boden"],
+      "wirkungslos": ["gift"]
+    },
+    "Fee": {
+      "halbiert": ["kampf", "käfer", "unlicht"],
+      "doppelt": ["gift", "stahl"],
+      "wirkungslos": ["drache"]
+    }
+  }
+}

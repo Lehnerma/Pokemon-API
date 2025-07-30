@@ -1,0 +1,8728 @@
+[
+  {
+    "Pokedexnummer": 1,
+    "Name": "Bisasam",
+    "Typen": [
+      "Grass",
+      "Poison"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 2,
+    "Name": "Bisaknosp",
+    "Typen": [
+      "Grass",
+      "Poison"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 3,
+    "Name": "Bisaflor",
+    "Typen": [
+      "Grass",
+      "Poison"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 4,
+    "Name": "Glumanda",
+    "Typen": [
+      "Fire"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 5,
+    "Name": "Glutexo",
+    "Typen": [
+      "Fire"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 6,
+    "Name": "Glurak",
+    "Typen": [
+      "Fire",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 7,
+    "Name": "Schiggy",
+    "Typen": [
+      "Water"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 8,
+    "Name": "Schillok",
+    "Typen": [
+      "Water"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 9,
+    "Name": "Turtok",
+    "Typen": [
+      "Water"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 10,
+    "Name": "Raupy",
+    "Typen": [
+      "Bug"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 11,
+    "Name": "Safcon",
+    "Typen": [
+      "Bug"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 12,
+    "Name": "Smettbo",
+    "Typen": [
+      "Bug",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 13,
+    "Name": "Hornliu",
+    "Typen": [
+      "Bug",
+      "Poison"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 14,
+    "Name": "Kokuna",
+    "Typen": [
+      "Bug",
+      "Poison"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 15,
+    "Name": "Bibor",
+    "Typen": [
+      "Bug",
+      "Poison"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 16,
+    "Name": "Taubsi",
+    "Typen": [
+      "Normal",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 17,
+    "Name": "Tauboga",
+    "Typen": [
+      "Normal",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 18,
+    "Name": "Tauboss",
+    "Typen": [
+      "Normal",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 19,
+    "Name": "Rattfratz",
+    "Typen": [
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 20,
+    "Name": "Rattikarl",
+    "Typen": [
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 21,
+    "Name": "Habitak",
+    "Typen": [
+      "Normal",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 22,
+    "Name": "Ibitak",
+    "Typen": [
+      "Normal",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 23,
+    "Name": "Rettan",
+    "Typen": [
+      "Poison"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 24,
+    "Name": "Arbok",
+    "Typen": [
+      "Poison"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 25,
+    "Name": "Pikachu",
+    "Typen": [
+      "Electric"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 26,
+    "Name": "Raichu",
+    "Typen": [
+      "Electric"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 27,
+    "Name": "Sandan",
+    "Typen": [
+      "Ground"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 28,
+    "Name": "Sandamer",
+    "Typen": [
+      "Ground"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 29,
+    "Name": "Nidoran♀",
+    "Typen": [
+      "Poison"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 30,
+    "Name": "Nidorina",
+    "Typen": [
+      "Poison"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 31,
+    "Name": "Nidoqueen",
+    "Typen": [
+      "Poison",
+      "Ground"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 32,
+    "Name": "Nidoran♂",
+    "Typen": [
+      "Poison"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 33,
+    "Name": "Nidorino",
+    "Typen": [
+      "Poison"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 34,
+    "Name": "Nidoking",
+    "Typen": [
+      "Poison",
+      "Ground"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 35,
+    "Name": "Piepi",
+    "Typen": [
+      "Fairy"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 36,
+    "Name": "Pixi",
+    "Typen": [
+      "Fairy"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 37,
+    "Name": "Vulpix",
+    "Typen": [
+      "Fire"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 38,
+    "Name": "Vulnona",
+    "Typen": [
+      "Fire"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 39,
+    "Name": "Pummeluff",
+    "Typen": [
+      "Normal",
+      "Fairy"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 40,
+    "Name": "Knuddeluff",
+    "Typen": [
+      "Normal",
+      "Fairy"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 41,
+    "Name": "Zubat",
+    "Typen": [
+      "Poison",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 42,
+    "Name": "Golbat",
+    "Typen": [
+      "Poison",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 43,
+    "Name": "Myrapla",
+    "Typen": [
+      "Grass",
+      "Poison"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 44,
+    "Name": "Duflor",
+    "Typen": [
+      "Grass",
+      "Poison"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 45,
+    "Name": "Giflor",
+    "Typen": [
+      "Grass",
+      "Poison"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 46,
+    "Name": "Paras",
+    "Typen": [
+      "Bug",
+      "Grass"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 47,
+    "Name": "Parasek",
+    "Typen": [
+      "Bug",
+      "Grass"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 48,
+    "Name": "Bluzuk",
+    "Typen": [
+      "Bug",
+      "Poison"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 49,
+    "Name": "Omot",
+    "Typen": [
+      "Bug",
+      "Poison"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 50,
+    "Name": "Digda",
+    "Typen": [
+      "Ground"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 51,
+    "Name": "Digdri",
+    "Typen": [
+      "Ground"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 52,
+    "Name": "Mauzi",
+    "Typen": [
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 53,
+    "Name": "Snobilikat",
+    "Typen": [
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 54,
+    "Name": "Enton",
+    "Typen": [
+      "Water"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 55,
+    "Name": "Entoron",
+    "Typen": [
+      "Water"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 56,
+    "Name": "Menki",
+    "Typen": [
+      "Fighting"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 57,
+    "Name": "Rasaff",
+    "Typen": [
+      "Fighting"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 58,
+    "Name": "Fukano",
+    "Typen": [
+      "Fire"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 59,
+    "Name": "Arkani",
+    "Typen": [
+      "Fire"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 60,
+    "Name": "Quapsel",
+    "Typen": [
+      "Water"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 61,
+    "Name": "Quaputzi",
+    "Typen": [
+      "Water"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 62,
+    "Name": "Quappo",
+    "Typen": [
+      "Water",
+      "Fighting"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 63,
+    "Name": "Abra",
+    "Typen": [
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 64,
+    "Name": "Kadabra",
+    "Typen": [
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 65,
+    "Name": "Simsala",
+    "Typen": [
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 66,
+    "Name": "Machollo",
+    "Typen": [
+      "Fighting"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 67,
+    "Name": "Maschock",
+    "Typen": [
+      "Fighting"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 68,
+    "Name": "Machomei",
+    "Typen": [
+      "Fighting"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 69,
+    "Name": "Knofensa",
+    "Typen": [
+      "Grass",
+      "Poison"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 70,
+    "Name": "Ultrigaria",
+    "Typen": [
+      "Grass",
+      "Poison"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 71,
+    "Name": "Sarzenia",
+    "Typen": [
+      "Grass",
+      "Poison"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 72,
+    "Name": "Tentacha",
+    "Typen": [
+      "Water",
+      "Poison"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 73,
+    "Name": "Tentoxa",
+    "Typen": [
+      "Water",
+      "Poison"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 74,
+    "Name": "Kleinstein",
+    "Typen": [
+      "Rock",
+      "Ground"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 75,
+    "Name": "Georok",
+    "Typen": [
+      "Rock",
+      "Ground"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 76,
+    "Name": "Geowaz",
+    "Typen": [
+      "Rock",
+      "Ground"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 77,
+    "Name": "Ponita",
+    "Typen": [
+      "Fire"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 78,
+    "Name": "Gallopa",
+    "Typen": [
+      "Fire"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 79,
+    "Name": "Flegmon",
+    "Typen": [
+      "Water",
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 80,
+    "Name": "Lahmus",
+    "Typen": [
+      "Water",
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 81,
+    "Name": "Magnetilo",
+    "Typen": [
+      "Electric",
+      "Steel"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 82,
+    "Name": "Magneton",
+    "Typen": [
+      "Electric",
+      "Steel"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 83,
+    "Name": "Porenta",
+    "Typen": [
+      "Normal",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 84,
+    "Name": "Dodu",
+    "Typen": [
+      "Normal",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 85,
+    "Name": "Dodri",
+    "Typen": [
+      "Normal",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 86,
+    "Name": "Jurob",
+    "Typen": [
+      "Water"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 87,
+    "Name": "Jugong",
+    "Typen": [
+      "Water",
+      "Ice"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 88,
+    "Name": "Sleima",
+    "Typen": [
+      "Poison"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 89,
+    "Name": "Sleimok",
+    "Typen": [
+      "Poison"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 90,
+    "Name": "Muschas",
+    "Typen": [
+      "Water"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 91,
+    "Name": "Austos",
+    "Typen": [
+      "Water",
+      "Ice"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 92,
+    "Name": "Nebulak",
+    "Typen": [
+      "Ghost",
+      "Poison"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 93,
+    "Name": "Alpollo",
+    "Typen": [
+      "Ghost",
+      "Poison"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 94,
+    "Name": "Gengar",
+    "Typen": [
+      "Ghost",
+      "Poison"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 95,
+    "Name": "Onix",
+    "Typen": [
+      "Rock",
+      "Ground"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 96,
+    "Name": "Traumato",
+    "Typen": [
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 97,
+    "Name": "Hypno",
+    "Typen": [
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 98,
+    "Name": "Krabby",
+    "Typen": [
+      "Water"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 99,
+    "Name": "Kingler",
+    "Typen": [
+      "Water"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 100,
+    "Name": "Voltobal",
+    "Typen": [
+      "Electric"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 101,
+    "Name": "Lektrobal",
+    "Typen": [
+      "Electric"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 102,
+    "Name": "Owei",
+    "Typen": [
+      "Grass",
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 103,
+    "Name": "Kokowei",
+    "Typen": [
+      "Grass",
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 104,
+    "Name": "Tragosso",
+    "Typen": [
+      "Ground"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 105,
+    "Name": "Knogga",
+    "Typen": [
+      "Ground"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 106,
+    "Name": "Kicklee",
+    "Typen": [
+      "Fighting"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 107,
+    "Name": "Nockchan",
+    "Typen": [
+      "Fighting"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 108,
+    "Name": "Schlurp",
+    "Typen": [
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 109,
+    "Name": "Smogon",
+    "Typen": [
+      "Poison"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 110,
+    "Name": "Smogmog",
+    "Typen": [
+      "Poison"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 111,
+    "Name": "Rihorn",
+    "Typen": [
+      "Ground",
+      "Rock"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 112,
+    "Name": "Rizeros",
+    "Typen": [
+      "Ground",
+      "Rock"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 113,
+    "Name": "Chaneira",
+    "Typen": [
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 114,
+    "Name": "Tangela",
+    "Typen": [
+      "Grass"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 115,
+    "Name": "Kangama",
+    "Typen": [
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 116,
+    "Name": "Seeper",
+    "Typen": [
+      "Water"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 117,
+    "Name": "Seemon",
+    "Typen": [
+      "Water"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 118,
+    "Name": "Goldini",
+    "Typen": [
+      "Water"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 119,
+    "Name": "Golking",
+    "Typen": [
+      "Water"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 120,
+    "Name": "Sterndu",
+    "Typen": [
+      "Water"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 121,
+    "Name": "Starmie",
+    "Typen": [
+      "Water",
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 122,
+    "Name": "Pantimos",
+    "Typen": [
+      "Psychic",
+      "Fairy"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 123,
+    "Name": "Sichlor",
+    "Typen": [
+      "Bug",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 124,
+    "Name": "Rossana",
+    "Typen": [
+      "Ice",
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 125,
+    "Name": "Elektek",
+    "Typen": [
+      "Electric"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 126,
+    "Name": "Magmar",
+    "Typen": [
+      "Fire"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 127,
+    "Name": "Pinsir",
+    "Typen": [
+      "Bug"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 128,
+    "Name": "Tauros",
+    "Typen": [
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 129,
+    "Name": "Karpador",
+    "Typen": [
+      "Water"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 130,
+    "Name": "Garados",
+    "Typen": [
+      "Water",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 131,
+    "Name": "Lapras",
+    "Typen": [
+      "Water",
+      "Ice"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 132,
+    "Name": "Ditto",
+    "Typen": [
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 133,
+    "Name": "Evoli",
+    "Typen": [
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 134,
+    "Name": "Aquana",
+    "Typen": [
+      "Water"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 135,
+    "Name": "Blitza",
+    "Typen": [
+      "Electric"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 136,
+    "Name": "Flamara",
+    "Typen": [
+      "Fire"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 137,
+    "Name": "Porygon",
+    "Typen": [
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 138,
+    "Name": "Amonitas",
+    "Typen": [
+      "Rock",
+      "Water"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 139,
+    "Name": "Amoroso",
+    "Typen": [
+      "Rock",
+      "Water"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 140,
+    "Name": "Kabuto",
+    "Typen": [
+      "Rock",
+      "Water"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 141,
+    "Name": "Kabutops",
+    "Typen": [
+      "Rock",
+      "Water"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 142,
+    "Name": "Aerodactyl",
+    "Typen": [
+      "Rock",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 143,
+    "Name": "Relaxo",
+    "Typen": [
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 144,
+    "Name": "Arktos",
+    "Typen": [
+      "Ice",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 145,
+    "Name": "Zapdos",
+    "Typen": [
+      "Electric",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 146,
+    "Name": "Lavados",
+    "Typen": [
+      "Fire",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 147,
+    "Name": "Dratini",
+    "Typen": [
+      "Dragon"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 148,
+    "Name": "Dragonir",
+    "Typen": [
+      "Dragon"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 149,
+    "Name": "Dragoran",
+    "Typen": [
+      "Dragon",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 150,
+    "Name": "Mewtu",
+    "Typen": [
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 151,
+    "Name": "Mew",
+    "Typen": [
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 152,
+    "Name": "Endivie",
+    "Typen": [
+      "Grass"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 153,
+    "Name": "Lorblatt",
+    "Typen": [
+      "Grass"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 154,
+    "Name": "Meganie",
+    "Typen": [
+      "Grass"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 155,
+    "Name": "Feurigel",
+    "Typen": [
+      "Fire"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 156,
+    "Name": "Igelavar",
+    "Typen": [
+      "Fire"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 157,
+    "Name": "Tornupto",
+    "Typen": [
+      "Fire"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 158,
+    "Name": "Karnimani",
+    "Typen": [
+      "Water"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 159,
+    "Name": "Tyracroc",
+    "Typen": [
+      "Water"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 160,
+    "Name": "Impergator",
+    "Typen": [
+      "Water"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 161,
+    "Name": "Wiesor",
+    "Typen": [
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 162,
+    "Name": "Wiesenior",
+    "Typen": [
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 163,
+    "Name": "Hoothoot",
+    "Typen": [
+      "Normal",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 164,
+    "Name": "Noctuh",
+    "Typen": [
+      "Normal",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 165,
+    "Name": "Ledyba",
+    "Typen": [
+      "Bug",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 166,
+    "Name": "Ledian",
+    "Typen": [
+      "Bug",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 167,
+    "Name": "Webarak",
+    "Typen": [
+      "Bug",
+      "Poison"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 168,
+    "Name": "Ariados",
+    "Typen": [
+      "Bug",
+      "Poison"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 169,
+    "Name": "Iksbat",
+    "Typen": [
+      "Poison",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 170,
+    "Name": "Lampi",
+    "Typen": [
+      "Water",
+      "Electric"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 171,
+    "Name": "Lanturn",
+    "Typen": [
+      "Water",
+      "Electric"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 172,
+    "Name": "Pichu",
+    "Typen": [
+      "Electric"
+    ],
+    "Entwicklungsstufe": "Baby"
+  },
+  {
+    "Pokedexnummer": 173,
+    "Name": "Pii",
+    "Typen": [
+      "Fairy"
+    ],
+    "Entwicklungsstufe": "Baby"
+  },
+  {
+    "Pokedexnummer": 174,
+    "Name": "Fluffeluff",
+    "Typen": [
+      "Normal",
+      "Fairy"
+    ],
+    "Entwicklungsstufe": "Baby"
+  },
+  {
+    "Pokedexnummer": 175,
+    "Name": "Togepi",
+    "Typen": [
+      "Fairy"
+    ],
+    "Entwicklungsstufe": "Baby"
+  },
+  {
+    "Pokedexnummer": 176,
+    "Name": "Togetic",
+    "Typen": [
+      "Fairy",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 177,
+    "Name": "Natu",
+    "Typen": [
+      "Psychic",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 178,
+    "Name": "Xatu",
+    "Typen": [
+      "Psychic",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 179,
+    "Name": "Voltilamm",
+    "Typen": [
+      "Electric"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 180,
+    "Name": "Waaty",
+    "Typen": [
+      "Electric"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 181,
+    "Name": "Ampharos",
+    "Typen": [
+      "Electric"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 182,
+    "Name": "Blubella",
+    "Typen": [
+      "Grass"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 183,
+    "Name": "Marill",
+    "Typen": [
+      "Water",
+      "Fairy"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 184,
+    "Name": "Azumarill",
+    "Typen": [
+      "Water",
+      "Fairy"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 185,
+    "Name": "Mogelbaum",
+    "Typen": [
+      "Rock"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 186,
+    "Name": "Quaxo",
+    "Typen": [
+      "Water"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 187,
+    "Name": "Hoppspross",
+    "Typen": [
+      "Grass",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 188,
+    "Name": "Hubelupf",
+    "Typen": [
+      "Grass",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 189,
+    "Name": "Papungha",
+    "Typen": [
+      "Grass",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 190,
+    "Name": "Griffel",
+    "Typen": [
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 191,
+    "Name": "Sonnkern",
+    "Typen": [
+      "Grass"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 192,
+    "Name": "Sonnflora",
+    "Typen": [
+      "Grass"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 193,
+    "Name": "Yanma",
+    "Typen": [
+      "Bug",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 194,
+    "Name": "Felino",
+    "Typen": [
+      "Water",
+      "Ground"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 195,
+    "Name": "Morlord",
+    "Typen": [
+      "Water",
+      "Ground"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 196,
+    "Name": "Psiana",
+    "Typen": [
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 197,
+    "Name": "Nachtara",
+    "Typen": [
+      "Dark"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 198,
+    "Name": "Kramurx",
+    "Typen": [
+      "Dark",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 199,
+    "Name": "Laschoking",
+    "Typen": [
+      "Water",
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 200,
+    "Name": "Traunfugil",
+    "Typen": [
+      "Ghost"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 201,
+    "Name": "Icognito",
+    "Typen": [
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 202,
+    "Name": "Woingenau",
+    "Typen": [
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 203,
+    "Name": "Girafarig",
+    "Typen": [
+      "Normal",
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 204,
+    "Name": "Tannza",
+    "Typen": [
+      "Bug"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 205,
+    "Name": "Forstellka",
+    "Typen": [
+      "Bug",
+      "Steel"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 206,
+    "Name": "Dummisel",
+    "Typen": [
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 207,
+    "Name": "Skorgla",
+    "Typen": [
+      "Ground",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 208,
+    "Name": "Stahlos",
+    "Typen": [
+      "Steel",
+      "Ground"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 209,
+    "Name": "Snubbull",
+    "Typen": [
+      "Fairy"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 210,
+    "Name": "Granbull",
+    "Typen": [
+      "Fairy"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 211,
+    "Name": "Baldorfish",
+    "Typen": [
+      "Water",
+      "Poison"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 212,
+    "Name": "Scherox",
+    "Typen": [
+      "Bug",
+      "Steel"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 213,
+    "Name": "Pottrott",
+    "Typen": [
+      "Bug",
+      "Rock"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 214,
+    "Name": "Skaraborn",
+    "Typen": [
+      "Bug",
+      "Fighting"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 215,
+    "Name": "Sniebel",
+    "Typen": [
+      "Dark",
+      "Ice"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 216,
+    "Name": "Teddiursa",
+    "Typen": [
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 217,
+    "Name": "Ursaring",
+    "Typen": [
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 218,
+    "Name": "Schneckmag",
+    "Typen": [
+      "Fire"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 219,
+    "Name": "Magcargo",
+    "Typen": [
+      "Fire",
+      "Rock"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 220,
+    "Name": "Quiekel",
+    "Typen": [
+      "Ice",
+      "Ground"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 221,
+    "Name": "Keifel",
+    "Typen": [
+      "Ice",
+      "Ground"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 222,
+    "Name": "Corasonn",
+    "Typen": [
+      "Water",
+      "Rock"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 223,
+    "Name": "Remoraid",
+    "Typen": [
+      "Water"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 224,
+    "Name": "Octillery",
+    "Typen": [
+      "Water"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 225,
+    "Name": "Botogel",
+    "Typen": [
+      "Ice",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 226,
+    "Name": "Mantax",
+    "Typen": [
+      "Water",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 227,
+    "Name": "Panzaeron",
+    "Typen": [
+      "Steel",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 228,
+    "Name": "Hunduster",
+    "Typen": [
+      "Dark",
+      "Fire"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 229,
+    "Name": "Hundemon",
+    "Typen": [
+      "Dark",
+      "Fire"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 230,
+    "Name": "Seedraking",
+    "Typen": [
+      "Water",
+      "Dragon"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 231,
+    "Name": "Phanpy",
+    "Typen": [
+      "Ground"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 232,
+    "Name": "Donphan",
+    "Typen": [
+      "Ground"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 233,
+    "Name": "Porygon2",
+    "Typen": [
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 234,
+    "Name": "Damhirplex",
+    "Typen": [
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 235,
+    "Name": "Farbeagle",
+    "Typen": [
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 236,
+    "Name": "Rabauz",
+    "Typen": [
+      "Fighting"
+    ],
+    "Entwicklungsstufe": "Baby"
+  },
+  {
+    "Pokedexnummer": 237,
+    "Name": "Kapoera",
+    "Typen": [
+      "Fighting"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 238,
+    "Name": "Kussilla",
+    "Typen": [
+      "Ice",
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Baby"
+  },
+  {
+    "Pokedexnummer": 239,
+    "Name": "Elekid",
+    "Typen": [
+      "Electric"
+    ],
+    "Entwicklungsstufe": "Baby"
+  },
+  {
+    "Pokedexnummer": 240,
+    "Name": "Magby",
+    "Typen": [
+      "Fire"
+    ],
+    "Entwicklungsstufe": "Baby"
+  },
+  {
+    "Pokedexnummer": 241,
+    "Name": "Miltank",
+    "Typen": [
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 242,
+    "Name": "Heiteira",
+    "Typen": [
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 243,
+    "Name": "Raikou",
+    "Typen": [
+      "Electric"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 244,
+    "Name": "Entei",
+    "Typen": [
+      "Fire"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 245,
+    "Name": "Suicune",
+    "Typen": [
+      "Water"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 246,
+    "Name": "Larvitar",
+    "Typen": [
+      "Rock",
+      "Ground"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 247,
+    "Name": "Pupitar",
+    "Typen": [
+      "Rock",
+      "Ground"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 248,
+    "Name": "Despotar",
+    "Typen": [
+      "Rock",
+      "Dark"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 249,
+    "Name": "Lugia",
+    "Typen": [
+      "Psychic",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 250,
+    "Name": "Ho-Oh",
+    "Typen": [
+      "Fire",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 251,
+    "Name": "Celebi",
+    "Typen": [
+      "Psychic",
+      "Grass"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 252,
+    "Name": "Geckarbor",
+    "Typen": [
+      "Grass"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 253,
+    "Name": "Reptain",
+    "Typen": [
+      "Grass"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 254,
+    "Name": "Gewaldro",
+    "Typen": [
+      "Grass"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 255,
+    "Name": "Flemmli",
+    "Typen": [
+      "Fire"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 256,
+    "Name": "Jungglut",
+    "Typen": [
+      "Fire",
+      "Fighting"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 257,
+    "Name": "Lohgock",
+    "Typen": [
+      "Fire",
+      "Fighting"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 258,
+    "Name": "Hydropi",
+    "Typen": [
+      "Water"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 259,
+    "Name": "Moorabbel",
+    "Typen": [
+      "Water",
+      "Ground"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 260,
+    "Name": "Sumpex",
+    "Typen": [
+      "Water",
+      "Ground"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 261,
+    "Name": "Fiffyen",
+    "Typen": [
+      "Dark"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 262,
+    "Name": "Magnayen",
+    "Typen": [
+      "Dark"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 263,
+    "Name": "Zigzachs",
+    "Typen": [
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 264,
+    "Name": "Geradaks",
+    "Typen": [
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 265,
+    "Name": "Waumpel",
+    "Typen": [
+      "Bug"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 266,
+    "Name": "Schaloko",
+    "Typen": [
+      "Bug"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 267,
+    "Name": "Papinella",
+    "Typen": [
+      "Bug",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 268,
+    "Name": "Panekon",
+    "Typen": [
+      "Bug"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 269,
+    "Name": "Pudox",
+    "Typen": [
+      "Bug",
+      "Poison"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 270,
+    "Name": "Loturzel",
+    "Typen": [
+      "Water",
+      "Grass"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 271,
+    "Name": "Lombrero",
+    "Typen": [
+      "Water",
+      "Grass"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 272,
+    "Name": "Kappalores",
+    "Typen": [
+      "Water",
+      "Grass"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 273,
+    "Name": "Samurzel",
+    "Typen": [
+      "Grass"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 274,
+    "Name": "Blanas",
+    "Typen": [
+      "Grass",
+      "Dark"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 275,
+    "Name": "Tengulist",
+    "Typen": [
+      "Grass",
+      "Dark"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 276,
+    "Name": "Schwalbini",
+    "Typen": [
+      "Normal",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 277,
+    "Name": "Schwalboss",
+    "Typen": [
+      "Normal",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 278,
+    "Name": "Wingull",
+    "Typen": [
+      "Water",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 279,
+    "Name": "Pelipper",
+    "Typen": [
+      "Water",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 280,
+    "Name": "Trasla",
+    "Typen": [
+      "Psychic",
+      "Fairy"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 281,
+    "Name": "Kirlia",
+    "Typen": [
+      "Psychic",
+      "Fairy"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 282,
+    "Name": "Guardevoir",
+    "Typen": [
+      "Psychic",
+      "Fairy"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 283,
+    "Name": "Gehweiher",
+    "Typen": [
+      "Bug",
+      "Water"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 284,
+    "Name": "Maskeregen",
+    "Typen": [
+      "Bug",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 285,
+    "Name": "Knilz",
+    "Typen": [
+      "Grass"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 286,
+    "Name": "Kapilz",
+    "Typen": [
+      "Grass",
+      "Fighting"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 287,
+    "Name": "Bummelz",
+    "Typen": [
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 288,
+    "Name": "Muntier",
+    "Typen": [
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 289,
+    "Name": "Letarking",
+    "Typen": [
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 290,
+    "Name": "Nincada",
+    "Typen": [
+      "Bug",
+      "Ground"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 291,
+    "Name": "Ninjask",
+    "Typen": [
+      "Bug",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 292,
+    "Name": "Ninjatom",
+    "Typen": [
+      "Bug",
+      "Ghost"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 293,
+    "Name": "Flurmel",
+    "Typen": [
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 294,
+    "Name": "Krakeelo",
+    "Typen": [
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 295,
+    "Name": "Krawumms",
+    "Typen": [
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 296,
+    "Name": "Makuhita",
+    "Typen": [
+      "Fighting"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 297,
+    "Name": "Hariyama",
+    "Typen": [
+      "Fighting"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 298,
+    "Name": "Azurill",
+    "Typen": [
+      "Normal",
+      "Fairy"
+    ],
+    "Entwicklungsstufe": "Baby"
+  },
+  {
+    "Pokedexnummer": 299,
+    "Name": "Nasgnet",
+    "Typen": [
+      "Rock"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 300,
+    "Name": "Eneco",
+    "Typen": [
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 301,
+    "Name": "Enekoro",
+    "Typen": [
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 302,
+    "Name": "Zobiris",
+    "Typen": [
+      "Dark",
+      "Ghost"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 303,
+    "Name": "Flunkifer",
+    "Typen": [
+      "Steel",
+      "Fairy"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 304,
+    "Name": "Stollunior",
+    "Typen": [
+      "Steel",
+      "Rock"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 305,
+    "Name": "Stollrak",
+    "Typen": [
+      "Steel",
+      "Rock"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 306,
+    "Name": "Stolloss",
+    "Typen": [
+      "Steel",
+      "Rock"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 307,
+    "Name": "Meditie",
+    "Typen": [
+      "Fighting",
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 308,
+    "Name": "Meditalis",
+    "Typen": [
+      "Fighting",
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 309,
+    "Name": "Frizelbliz",
+    "Typen": [
+      "Electric"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 310,
+    "Name": "Voltenso",
+    "Typen": [
+      "Electric"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 311,
+    "Name": "Plusle",
+    "Typen": [
+      "Electric"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 312,
+    "Name": "Minun",
+    "Typen": [
+      "Electric"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 313,
+    "Name": "Volbeat",
+    "Typen": [
+      "Bug"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 314,
+    "Name": "Illumise",
+    "Typen": [
+      "Bug"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 315,
+    "Name": "Roselia",
+    "Typen": [
+      "Grass",
+      "Poison"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 316,
+    "Name": "Schluppuck",
+    "Typen": [
+      "Poison"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 317,
+    "Name": "Schlukwech",
+    "Typen": [
+      "Poison"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 318,
+    "Name": "Kanivanha",
+    "Typen": [
+      "Water",
+      "Dark"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 319,
+    "Name": "Tohaido",
+    "Typen": [
+      "Water",
+      "Dark"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 320,
+    "Name": "Wailmer",
+    "Typen": [
+      "Water"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 321,
+    "Name": "Wailord",
+    "Typen": [
+      "Water"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 322,
+    "Name": "Camaub",
+    "Typen": [
+      "Fire",
+      "Ground"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 323,
+    "Name": "Camerupt",
+    "Typen": [
+      "Fire",
+      "Ground"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 324,
+    "Name": "Qurtel",
+    "Typen": [
+      "Fire"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 325,
+    "Name": "Spoink",
+    "Typen": [
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 326,
+    "Name": "Groink",
+    "Typen": [
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 327,
+    "Name": "Pandir",
+    "Typen": [
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 328,
+    "Name": "Knacklion",
+    "Typen": [
+      "Ground"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 329,
+    "Name": "Vibrava",
+    "Typen": [
+      "Ground",
+      "Dragon"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 330,
+    "Name": "Libelldra",
+    "Typen": [
+      "Ground",
+      "Dragon"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 331,
+    "Name": "Tuska",
+    "Typen": [
+      "Grass"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 332,
+    "Name": "Noktuska",
+    "Typen": [
+      "Grass",
+      "Dark"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 333,
+    "Name": "Wablu",
+    "Typen": [
+      "Normal",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 334,
+    "Name": "Altaria",
+    "Typen": [
+      "Dragon",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 335,
+    "Name": "Sengo",
+    "Typen": [
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 336,
+    "Name": "Vipitis",
+    "Typen": [
+      "Poison"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 337,
+    "Name": "Lunastein",
+    "Typen": [
+      "Rock",
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 338,
+    "Name": "Sonnfel",
+    "Typen": [
+      "Rock",
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 339,
+    "Name": "Schmerbe",
+    "Typen": [
+      "Water",
+      "Ground"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 340,
+    "Name": "Welsar",
+    "Typen": [
+      "Water",
+      "Ground"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 341,
+    "Name": "Krebscorps",
+    "Typen": [
+      "Water"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 342,
+    "Name": "Krebutack",
+    "Typen": [
+      "Water",
+      "Dark"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 343,
+    "Name": "Puppance",
+    "Typen": [
+      "Ground",
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 344,
+    "Name": "Lepumentas",
+    "Typen": [
+      "Ground",
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 345,
+    "Name": "Liliep",
+    "Typen": [
+      "Rock",
+      "Grass"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 346,
+    "Name": "Wielie",
+    "Typen": [
+      "Rock",
+      "Grass"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 347,
+    "Name": "Anorith",
+    "Typen": [
+      "Rock",
+      "Bug"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 348,
+    "Name": "Armaldo",
+    "Typen": [
+      "Rock",
+      "Bug"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 349,
+    "Name": "Barschwa",
+    "Typen": [
+      "Water"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 350,
+    "Name": "Milotic",
+    "Typen": [
+      "Water"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 351,
+    "Name": "Formeo",
+    "Typen": [
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 352,
+    "Name": "Kecleon",
+    "Typen": [
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 353,
+    "Name": "Shuppet",
+    "Typen": [
+      "Ghost"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 354,
+    "Name": "Banette",
+    "Typen": [
+      "Ghost"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 355,
+    "Name": "Zwirrlicht",
+    "Typen": [
+      "Ghost"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 356,
+    "Name": "Zwirrklop",
+    "Typen": [
+      "Ghost"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 357,
+    "Name": "Tropius",
+    "Typen": [
+      "Grass",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 358,
+    "Name": "Palimpalim",
+    "Typen": [
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 359,
+    "Name": "Absol",
+    "Typen": [
+      "Dark"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 360,
+    "Name": "Isso",
+    "Typen": [
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Baby"
+  },
+  {
+    "Pokedexnummer": 361,
+    "Name": "Schneppke",
+    "Typen": [
+      "Ice"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 362,
+    "Name": "Firnontor",
+    "Typen": [
+      "Ice"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 363,
+    "Name": "Seemops",
+    "Typen": [
+      "Ice",
+      "Water"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 364,
+    "Name": "Seejong",
+    "Typen": [
+      "Ice",
+      "Water"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 365,
+    "Name": "Walraisa",
+    "Typen": [
+      "Ice",
+      "Water"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 366,
+    "Name": "Perlu",
+    "Typen": [
+      "Water"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 367,
+    "Name": "Aalabyss",
+    "Typen": [
+      "Water"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 368,
+    "Name": "Saganabyss",
+    "Typen": [
+      "Water"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 369,
+    "Name": "Relicanth",
+    "Typen": [
+      "Water",
+      "Rock"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 370,
+    "Name": "Liebiskus",
+    "Typen": [
+      "Water"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 371,
+    "Name": "Kindwurm",
+    "Typen": [
+      "Dragon"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 372,
+    "Name": "Draschel",
+    "Typen": [
+      "Dragon"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 373,
+    "Name": "Brutalanda",
+    "Typen": [
+      "Dragon",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 374,
+    "Name": "Tanhel",
+    "Typen": [
+      "Steel",
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 375,
+    "Name": "Metang",
+    "Typen": [
+      "Steel",
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 376,
+    "Name": "Metagross",
+    "Typen": [
+      "Steel",
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 377,
+    "Name": "Regirock",
+    "Typen": [
+      "Rock"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 378,
+    "Name": "Regice",
+    "Typen": [
+      "Ice"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 379,
+    "Name": "Registeel",
+    "Typen": [
+      "Steel"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 380,
+    "Name": "Latias",
+    "Typen": [
+      "Dragon",
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 381,
+    "Name": "Latios",
+    "Typen": [
+      "Dragon",
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 382,
+    "Name": "Kyogre",
+    "Typen": [
+      "Water"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 383,
+    "Name": "Groudon",
+    "Typen": [
+      "Ground"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 384,
+    "Name": "Rayquaza",
+    "Typen": [
+      "Dragon",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 385,
+    "Name": "Jirachi",
+    "Typen": [
+      "Steel",
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 386,
+    "Name": "Deoxys",
+    "Typen": [
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 387,
+    "Name": "Chelast",
+    "Typen": [
+      "Grass"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 388,
+    "Name": "Chelcarain",
+    "Typen": [
+      "Grass"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 389,
+    "Name": "Chelterrar",
+    "Typen": [
+      "Grass",
+      "Ground"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 390,
+    "Name": "Panflam",
+    "Typen": [
+      "Fire"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 391,
+    "Name": "Panpyro",
+    "Typen": [
+      "Fire",
+      "Fighting"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 392,
+    "Name": "Panferno",
+    "Typen": [
+      "Fire",
+      "Fighting"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 393,
+    "Name": "Plinfa",
+    "Typen": [
+      "Water"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 394,
+    "Name": "Pliprin",
+    "Typen": [
+      "Water"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 395,
+    "Name": "Impoleon",
+    "Typen": [
+      "Water",
+      "Steel"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 396,
+    "Name": "Staralili",
+    "Typen": [
+      "Normal",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 397,
+    "Name": "Staravia",
+    "Typen": [
+      "Normal",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 398,
+    "Name": "Staraptor",
+    "Typen": [
+      "Normal",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 399,
+    "Name": "Bidiza",
+    "Typen": [
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 400,
+    "Name": "Bidifas",
+    "Typen": [
+      "Normal",
+      "Water"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 401,
+    "Name": "Zirpurze",
+    "Typen": [
+      "Bug"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 402,
+    "Name": "Zirpeise",
+    "Typen": [
+      "Bug"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 403,
+    "Name": "Sheinux",
+    "Typen": [
+      "Electric"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 404,
+    "Name": "Luxio",
+    "Typen": [
+      "Electric"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 405,
+    "Name": "Luxtra",
+    "Typen": [
+      "Electric"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 406,
+    "Name": "Knospi",
+    "Typen": [
+      "Grass",
+      "Poison"
+    ],
+    "Entwicklungsstufe": "Baby"
+  },
+  {
+    "Pokedexnummer": 407,
+    "Name": "Roserade",
+    "Typen": [
+      "Grass",
+      "Poison"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 408,
+    "Name": "Koknodon",
+    "Typen": [
+      "Rock"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 409,
+    "Name": "Rameidon",
+    "Typen": [
+      "Rock"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 410,
+    "Name": "Schilterus",
+    "Typen": [
+      "Rock",
+      "Steel"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 411,
+    "Name": "Bollterus",
+    "Typen": [
+      "Rock",
+      "Steel"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 412,
+    "Name": "Burmy",
+    "Typen": [
+      "Bug"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 413,
+    "Name": "Burmadame",
+    "Typen": [
+      "Bug",
+      "Grass"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 414,
+    "Name": "Moterpel",
+    "Typen": [
+      "Bug",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 415,
+    "Name": "Wadribie",
+    "Typen": [
+      "Bug",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 416,
+    "Name": "Honweisel",
+    "Typen": [
+      "Bug",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 417,
+    "Name": "Pachirisu",
+    "Typen": [
+      "Electric"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 418,
+    "Name": "Bamelin",
+    "Typen": [
+      "Water"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 419,
+    "Name": "Bojelin",
+    "Typen": [
+      "Water"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 420,
+    "Name": "Kikugi",
+    "Typen": [
+      "Grass"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 421,
+    "Name": "Kinoso",
+    "Typen": [
+      "Grass"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 422,
+    "Name": "Schalellos",
+    "Typen": [
+      "Water"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 423,
+    "Name": "Gastrodon",
+    "Typen": [
+      "Water",
+      "Ground"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 424,
+    "Name": "Ambidiffel",
+    "Typen": [
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 425,
+    "Name": "Driftlon",
+    "Typen": [
+      "Ghost",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 426,
+    "Name": "Drifzepeli",
+    "Typen": [
+      "Ghost",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 427,
+    "Name": "Haspiror",
+    "Typen": [
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 428,
+    "Name": "Schlapor",
+    "Typen": [
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 429,
+    "Name": "Traunmagil",
+    "Typen": [
+      "Ghost"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 430,
+    "Name": "Kramshef",
+    "Typen": [
+      "Dark",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 431,
+    "Name": "Charmian",
+    "Typen": [
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 432,
+    "Name": "Shnurgarst",
+    "Typen": [
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 433,
+    "Name": "Klingplim",
+    "Typen": [
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Baby"
+  },
+  {
+    "Pokedexnummer": 434,
+    "Name": "Skunkapuh",
+    "Typen": [
+      "Poison",
+      "Dark"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 435,
+    "Name": "Skuntank",
+    "Typen": [
+      "Poison",
+      "Dark"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 436,
+    "Name": "Bronzel",
+    "Typen": [
+      "Steel",
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 437,
+    "Name": "Bronzong",
+    "Typen": [
+      "Steel",
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 438,
+    "Name": "Mobai",
+    "Typen": [
+      "Rock"
+    ],
+    "Entwicklungsstufe": "Baby"
+  },
+  {
+    "Pokedexnummer": 439,
+    "Name": "Pantimimi",
+    "Typen": [
+      "Psychic",
+      "Fairy"
+    ],
+    "Entwicklungsstufe": "Baby"
+  },
+  {
+    "Pokedexnummer": 440,
+    "Name": "Wonneira",
+    "Typen": [
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Baby"
+  },
+  {
+    "Pokedexnummer": 441,
+    "Name": "Plaudagei",
+    "Typen": [
+      "Normal",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 442,
+    "Name": "Kryppuk",
+    "Typen": [
+      "Ghost",
+      "Dark"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 443,
+    "Name": "Kaumalat",
+    "Typen": [
+      "Dragon",
+      "Ground"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 444,
+    "Name": "Knarksel",
+    "Typen": [
+      "Dragon",
+      "Ground"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 445,
+    "Name": "Knakrack",
+    "Typen": [
+      "Dragon",
+      "Ground"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 446,
+    "Name": "Mampfaxo",
+    "Typen": [
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Baby"
+  },
+  {
+    "Pokedexnummer": 447,
+    "Name": "Riolu",
+    "Typen": [
+      "Fighting"
+    ],
+    "Entwicklungsstufe": "Baby"
+  },
+  {
+    "Pokedexnummer": 448,
+    "Name": "Lucario",
+    "Typen": [
+      "Fighting",
+      "Steel"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 449,
+    "Name": "Hippopotas",
+    "Typen": [
+      "Ground"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 450,
+    "Name": "Hippoterus",
+    "Typen": [
+      "Ground"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 451,
+    "Name": "Pionskora",
+    "Typen": [
+      "Poison",
+      "Bug"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 452,
+    "Name": "Piondragi",
+    "Typen": [
+      "Poison",
+      "Dark"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 453,
+    "Name": "Glibunkel",
+    "Typen": [
+      "Poison",
+      "Fighting"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 454,
+    "Name": "Toxiquak",
+    "Typen": [
+      "Poison",
+      "Fighting"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 455,
+    "Name": "Venuflibis",
+    "Typen": [
+      "Grass"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 456,
+    "Name": "Finneon",
+    "Typen": [
+      "Water"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 457,
+    "Name": "Lumineon",
+    "Typen": [
+      "Water"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 458,
+    "Name": "Mantirps",
+    "Typen": [
+      "Water",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Baby"
+  },
+  {
+    "Pokedexnummer": 459,
+    "Name": "Shnebedeck",
+    "Typen": [
+      "Grass",
+      "Ice"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 460,
+    "Name": "Rexblisar",
+    "Typen": [
+      "Grass",
+      "Ice"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 461,
+    "Name": "Snibunna",
+    "Typen": [
+      "Dark",
+      "Ice"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 462,
+    "Name": "Magnezone",
+    "Typen": [
+      "Electric",
+      "Steel"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 463,
+    "Name": "Schlurplek",
+    "Typen": [
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 464,
+    "Name": "Rihornior",
+    "Typen": [
+      "Ground",
+      "Rock"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 465,
+    "Name": "Tangoloss",
+    "Typen": [
+      "Grass"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 466,
+    "Name": "Elevoltek",
+    "Typen": [
+      "Electric"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 467,
+    "Name": "Magbrant",
+    "Typen": [
+      "Fire"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 468,
+    "Name": "Togekiss",
+    "Typen": [
+      "Fairy",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 469,
+    "Name": "Yanmega",
+    "Typen": [
+      "Bug",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 470,
+    "Name": "Folipurba",
+    "Typen": [
+      "Grass"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 471,
+    "Name": "Glaziola",
+    "Typen": [
+      "Ice"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 472,
+    "Name": "Skorgro",
+    "Typen": [
+      "Ground",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 473,
+    "Name": "Mamutel",
+    "Typen": [
+      "Ice",
+      "Ground"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 474,
+    "Name": "Porygon-Z",
+    "Typen": [
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 475,
+    "Name": "Galagladi",
+    "Typen": [
+      "Psychic",
+      "Fighting"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 476,
+    "Name": "Voluminas",
+    "Typen": [
+      "Rock",
+      "Steel"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 477,
+    "Name": "Zwirrfinst",
+    "Typen": [
+      "Ghost"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 478,
+    "Name": "Frosdedje",
+    "Typen": [
+      "Ice",
+      "Ghost"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 479,
+    "Name": "Rotom",
+    "Typen": [
+      "Electric",
+      "Ghost"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 480,
+    "Name": "Selfe",
+    "Typen": [
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 481,
+    "Name": "Vesprit",
+    "Typen": [
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 482,
+    "Name": "Tobutz",
+    "Typen": [
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 483,
+    "Name": "Dialga",
+    "Typen": [
+      "Steel",
+      "Dragon"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 484,
+    "Name": "Palkia",
+    "Typen": [
+      "Water",
+      "Dragon"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 485,
+    "Name": "Heatran",
+    "Typen": [
+      "Fire",
+      "Steel"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 486,
+    "Name": "Regigigas",
+    "Typen": [
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 487,
+    "Name": "Giratina",
+    "Typen": [
+      "Ghost",
+      "Dragon"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 488,
+    "Name": "Cresselia",
+    "Typen": [
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 489,
+    "Name": "Phione",
+    "Typen": [
+      "Water"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 490,
+    "Name": "Manaphy",
+    "Typen": [
+      "Water"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 491,
+    "Name": "Darkrai",
+    "Typen": [
+      "Dark"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 492,
+    "Name": "Shaymin",
+    "Typen": [
+      "Grass"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 493,
+    "Name": "Arceus",
+    "Typen": [
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 494,
+    "Name": "Victini",
+    "Typen": [
+      "Psychic",
+      "Fire"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 495,
+    "Name": "Serpifeu",
+    "Typen": [
+      "Grass"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 496,
+    "Name": "Efoserp",
+    "Typen": [
+      "Grass"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 497,
+    "Name": "Serpiroyal",
+    "Typen": [
+      "Grass"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 498,
+    "Name": "Floink",
+    "Typen": [
+      "Fire"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 499,
+    "Name": "Ferkokel",
+    "Typen": [
+      "Fire",
+      "Fighting"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 500,
+    "Name": "Flambirex",
+    "Typen": [
+      "Fire",
+      "Fighting"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 501,
+    "Name": "Ottaro",
+    "Typen": [
+      "Water"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 502,
+    "Name": "Zwottronin",
+    "Typen": [
+      "Water"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 503,
+    "Name": "Admurai",
+    "Typen": [
+      "Water"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 504,
+    "Name": "Nagelotz",
+    "Typen": [
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 505,
+    "Name": "Kukmarda",
+    "Typen": [
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 506,
+    "Name": "Yorkleff",
+    "Typen": [
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 507,
+    "Name": "Terribark",
+    "Typen": [
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 508,
+    "Name": "Bissbark",
+    "Typen": [
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 509,
+    "Name": "Felilou",
+    "Typen": [
+      "Dark"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 510,
+    "Name": "Kleoparda",
+    "Typen": [
+      "Dark"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 511,
+    "Name": "Vegimak",
+    "Typen": [
+      "Grass"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 512,
+    "Name": "Vegichita",
+    "Typen": [
+      "Grass"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 513,
+    "Name": "Grillmak",
+    "Typen": [
+      "Fire"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 514,
+    "Name": "Grillchita",
+    "Typen": [
+      "Fire"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 515,
+    "Name": "Sodamak",
+    "Typen": [
+      "Water"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 516,
+    "Name": "Sodachita",
+    "Typen": [
+      "Water"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 517,
+    "Name": "Somniam",
+    "Typen": [
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 518,
+    "Name": "Somnivora",
+    "Typen": [
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 519,
+    "Name": "Dusselgurr",
+    "Typen": [
+      "Normal",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 520,
+    "Name": "Navitaub",
+    "Typen": [
+      "Normal",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 521,
+    "Name": "Fasasnob",
+    "Typen": [
+      "Normal",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 522,
+    "Name": "Elezeba",
+    "Typen": [
+      "Electric"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 523,
+    "Name": "Zebritz",
+    "Typen": [
+      "Electric"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 524,
+    "Name": "Kiesling",
+    "Typen": [
+      "Rock"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 525,
+    "Name": "Sedimantur",
+    "Typen": [
+      "Rock"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 526,
+    "Name": "Brockoloss",
+    "Typen": [
+      "Rock"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 527,
+    "Name": "Fleknoil",
+    "Typen": [
+      "Psychic",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 528,
+    "Name": "Fletiamo",
+    "Typen": [
+      "Psychic",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 529,
+    "Name": "Rotomurf",
+    "Typen": [
+      "Ground"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 530,
+    "Name": "Stalobor",
+    "Typen": [
+      "Ground",
+      "Steel"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 531,
+    "Name": "Ohrdoch",
+    "Typen": [
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 532,
+    "Name": "Praktibalk",
+    "Typen": [
+      "Fighting"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 533,
+    "Name": "Strepoli",
+    "Typen": [
+      "Fighting"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 534,
+    "Name": "Meistagrif",
+    "Typen": [
+      "Fighting"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 535,
+    "Name": "Schallquap",
+    "Typen": [
+      "Water"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 536,
+    "Name": "Mebrana",
+    "Typen": [
+      "Water",
+      "Ground"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 537,
+    "Name": "Branawarz",
+    "Typen": [
+      "Water",
+      "Ground"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 538,
+    "Name": "Jiutesto",
+    "Typen": [
+      "Fighting"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 539,
+    "Name": "Karadonis",
+    "Typen": [
+      "Fighting"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 540,
+    "Name": "Strawickl",
+    "Typen": [
+      "Bug",
+      "Grass"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 541,
+    "Name": "Folikon",
+    "Typen": [
+      "Bug",
+      "Grass"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 542,
+    "Name": "Matrifol",
+    "Typen": [
+      "Bug",
+      "Grass"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 543,
+    "Name": "Toxiped",
+    "Typen": [
+      "Bug",
+      "Poison"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 544,
+    "Name": "Rollum",
+    "Typen": [
+      "Bug",
+      "Poison"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 545,
+    "Name": "Cerapendra",
+    "Typen": [
+      "Bug",
+      "Poison"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 546,
+    "Name": "Waumboll",
+    "Typen": [
+      "Grass",
+      "Fairy"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 547,
+    "Name": "Elfun",
+    "Typen": [
+      "Grass",
+      "Fairy"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 548,
+    "Name": "Lilminip",
+    "Typen": [
+      "Grass"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 549,
+    "Name": "Dressella",
+    "Typen": [
+      "Grass"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 550,
+    "Name": "Barschuft",
+    "Typen": [
+      "Water"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 551,
+    "Name": "Ganovil",
+    "Typen": [
+      "Ground",
+      "Dark"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 552,
+    "Name": "Rokkaiman",
+    "Typen": [
+      "Ground",
+      "Dark"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 553,
+    "Name": "Rabigator",
+    "Typen": [
+      "Ground",
+      "Dark"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 554,
+    "Name": "Flampion",
+    "Typen": [
+      "Fire"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 555,
+    "Name": "Flampivian",
+    "Typen": [
+      "Fire"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 556,
+    "Name": "Maracamba",
+    "Typen": [
+      "Grass"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 557,
+    "Name": "Lithomith",
+    "Typen": [
+      "Bug",
+      "Rock"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 558,
+    "Name": "Castellith",
+    "Typen": [
+      "Bug",
+      "Rock"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 559,
+    "Name": "Zurrokex",
+    "Typen": [
+      "Dark",
+      "Fighting"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 560,
+    "Name": "Irokex",
+    "Typen": [
+      "Dark",
+      "Fighting"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 561,
+    "Name": "Symvolara",
+    "Typen": [
+      "Psychic",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 562,
+    "Name": "Makabaja",
+    "Typen": [
+      "Ghost"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 563,
+    "Name": "Echnatoll",
+    "Typen": [
+      "Ghost"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 564,
+    "Name": "Galapaflos",
+    "Typen": [
+      "Water",
+      "Rock"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 565,
+    "Name": "Karippas",
+    "Typen": [
+      "Water",
+      "Rock"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 566,
+    "Name": "Flapteryx",
+    "Typen": [
+      "Rock",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 567,
+    "Name": "Aeropteryx",
+    "Typen": [
+      "Rock",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 568,
+    "Name": "Unratütox",
+    "Typen": [
+      "Poison"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 569,
+    "Name": "Deponitox",
+    "Typen": [
+      "Poison"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 570,
+    "Name": "Zorua",
+    "Typen": [
+      "Dark"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 571,
+    "Name": "Zoroark",
+    "Typen": [
+      "Dark"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 572,
+    "Name": "Picochilla",
+    "Typen": [
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 573,
+    "Name": "Chillabell",
+    "Typen": [
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 574,
+    "Name": "Mollimorba",
+    "Typen": [
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 575,
+    "Name": "Hypnomorba",
+    "Typen": [
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 576,
+    "Name": "Morbitesse",
+    "Typen": [
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 577,
+    "Name": "Monozyto",
+    "Typen": [
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 578,
+    "Name": "Mitodos",
+    "Typen": [
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 579,
+    "Name": "Zytomega",
+    "Typen": [
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 580,
+    "Name": "Piccolente",
+    "Typen": [
+      "Water",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 581,
+    "Name": "Swaroness",
+    "Typen": [
+      "Water",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 582,
+    "Name": "Gelatini",
+    "Typen": [
+      "Ice"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 583,
+    "Name": "Gelatroppo",
+    "Typen": [
+      "Ice"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 584,
+    "Name": "Gelatwino",
+    "Typen": [
+      "Ice"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 585,
+    "Name": "Sesokitz",
+    "Typen": [
+      "Normal",
+      "Grass"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 586,
+    "Name": "Kronjuwild",
+    "Typen": [
+      "Normal",
+      "Grass"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 587,
+    "Name": "Emolga",
+    "Typen": [
+      "Electric",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 588,
+    "Name": "Laukaps",
+    "Typen": [
+      "Bug"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 589,
+    "Name": "Cavalanzas",
+    "Typen": [
+      "Bug",
+      "Steel"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 590,
+    "Name": "Tarnpignon",
+    "Typen": [
+      "Grass",
+      "Poison"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 591,
+    "Name": "Hutsassa",
+    "Typen": [
+      "Grass",
+      "Poison"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 592,
+    "Name": "Quabbel",
+    "Typen": [
+      "Water",
+      "Ghost"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 593,
+    "Name": "Apoquallyp",
+    "Typen": [
+      "Water",
+      "Ghost"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 594,
+    "Name": "Mamolida",
+    "Typen": [
+      "Water"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 595,
+    "Name": "Wattzapf",
+    "Typen": [
+      "Bug",
+      "Electric"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 596,
+    "Name": "Voltula",
+    "Typen": [
+      "Bug",
+      "Electric"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 597,
+    "Name": "Kastadur",
+    "Typen": [
+      "Grass",
+      "Steel"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 598,
+    "Name": "Tentantel",
+    "Typen": [
+      "Grass",
+      "Steel"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 599,
+    "Name": "Klikk",
+    "Typen": [
+      "Steel"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 600,
+    "Name": "Kliklak",
+    "Typen": [
+      "Steel"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 601,
+    "Name": "Klikdiklak",
+    "Typen": [
+      "Steel"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 602,
+    "Name": "Zapplardin",
+    "Typen": [
+      "Electric"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 603,
+    "Name": "Zapplalek",
+    "Typen": [
+      "Electric"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 604,
+    "Name": "Zapplarang",
+    "Typen": [
+      "Electric"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 605,
+    "Name": "Pygraulon",
+    "Typen": [
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 606,
+    "Name": "Megalon",
+    "Typen": [
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 607,
+    "Name": "Lichtel",
+    "Typen": [
+      "Ghost",
+      "Fire"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 608,
+    "Name": "Laternecto",
+    "Typen": [
+      "Ghost",
+      "Fire"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 609,
+    "Name": "Skelabra",
+    "Typen": [
+      "Ghost",
+      "Fire"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 610,
+    "Name": "Milza",
+    "Typen": [
+      "Dragon"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 611,
+    "Name": "Sharfax",
+    "Typen": [
+      "Dragon"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 612,
+    "Name": "Maxax",
+    "Typen": [
+      "Dragon"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 613,
+    "Name": "Petznief",
+    "Typen": [
+      "Ice"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 614,
+    "Name": "Siberio",
+    "Typen": [
+      "Ice"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 615,
+    "Name": "Frigometri",
+    "Typen": [
+      "Ice"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 616,
+    "Name": "Schnuthelm",
+    "Typen": [
+      "Bug"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 617,
+    "Name": "Hydragil",
+    "Typen": [
+      "Bug"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 618,
+    "Name": "Flunschlik",
+    "Typen": [
+      "Ground",
+      "Electric"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 619,
+    "Name": "Lin-Fu",
+    "Typen": [
+      "Fighting"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 620,
+    "Name": "Wie-Shu",
+    "Typen": [
+      "Fighting"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 621,
+    "Name": "Shardrago",
+    "Typen": [
+      "Dragon"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 622,
+    "Name": "Golbit",
+    "Typen": [
+      "Ground",
+      "Ghost"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 623,
+    "Name": "Golgantes",
+    "Typen": [
+      "Ground",
+      "Ghost"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 624,
+    "Name": "Gladiantri",
+    "Typen": [
+      "Dark",
+      "Steel"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 625,
+    "Name": "Caesurio",
+    "Typen": [
+      "Dark",
+      "Steel"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 626,
+    "Name": "Bisofank",
+    "Typen": [
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 627,
+    "Name": "Geronimatz",
+    "Typen": [
+      "Normal",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 628,
+    "Name": "Washakwil",
+    "Typen": [
+      "Normal",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 629,
+    "Name": "Skallyk",
+    "Typen": [
+      "Dark",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 630,
+    "Name": "Grypheldis",
+    "Typen": [
+      "Dark",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 631,
+    "Name": "Furnifraß",
+    "Typen": [
+      "Fire"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 632,
+    "Name": "Fermicula",
+    "Typen": [
+      "Bug",
+      "Steel"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 633,
+    "Name": "Kapuno",
+    "Typen": [
+      "Dark",
+      "Dragon"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 634,
+    "Name": "Duodino",
+    "Typen": [
+      "Dark",
+      "Dragon"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 635,
+    "Name": "Trikephalo",
+    "Typen": [
+      "Dark",
+      "Dragon"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 636,
+    "Name": "Ignivor",
+    "Typen": [
+      "Bug",
+      "Fire"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 637,
+    "Name": "Ramoth",
+    "Typen": [
+      "Bug",
+      "Fire"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 638,
+    "Name": "Kobalium",
+    "Typen": [
+      "Steel",
+      "Fighting"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 639,
+    "Name": "Terrakium",
+    "Typen": [
+      "Rock",
+      "Fighting"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 640,
+    "Name": "Viridium",
+    "Typen": [
+      "Grass",
+      "Fighting"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 641,
+    "Name": "Boreos",
+    "Typen": [
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 642,
+    "Name": "Voltolos",
+    "Typen": [
+      "Electric",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 643,
+    "Name": "Reshiram",
+    "Typen": [
+      "Dragon",
+      "Fire"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 644,
+    "Name": "Zekrom",
+    "Typen": [
+      "Dragon",
+      "Electric"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 645,
+    "Name": "Demeteros",
+    "Typen": [
+      "Ground",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 646,
+    "Name": "Kyurem",
+    "Typen": [
+      "Dragon",
+      "Ice"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 647,
+    "Name": "Keldeo",
+    "Typen": [
+      "Water",
+      "Fighting"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 648,
+    "Name": "Meloetta",
+    "Typen": [
+      "Normal",
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 649,
+    "Name": "Genesect",
+    "Typen": [
+      "Bug",
+      "Steel"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 650,
+    "Name": "Igamaro",
+    "Typen": [
+      "Grass"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 651,
+    "Name": "Igastarnish",
+    "Typen": [
+      "Grass"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 652,
+    "Name": "Brigaron",
+    "Typen": [
+      "Grass",
+      "Fighting"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 653,
+    "Name": "Fynx",
+    "Typen": [
+      "Fire"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 654,
+    "Name": "Rutena",
+    "Typen": [
+      "Fire"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 655,
+    "Name": "Fennexis",
+    "Typen": [
+      "Fire",
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 656,
+    "Name": "Froxy",
+    "Typen": [
+      "Water"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 657,
+    "Name": "Amphizel",
+    "Typen": [
+      "Water"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 658,
+    "Name": "Quajutsu",
+    "Typen": [
+      "Water",
+      "Dark"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 659,
+    "Name": "Scoppel",
+    "Typen": [
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 660,
+    "Name": "Grebbit",
+    "Typen": [
+      "Normal",
+      "Ground"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 661,
+    "Name": "Dartiri",
+    "Typen": [
+      "Normal",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 662,
+    "Name": "Dartignis",
+    "Typen": [
+      "Fire",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 663,
+    "Name": "Fiaro",
+    "Typen": [
+      "Fire",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 664,
+    "Name": "Purmel",
+    "Typen": [
+      "Bug"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 665,
+    "Name": "Puponcho",
+    "Typen": [
+      "Bug"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 666,
+    "Name": "Vivillon",
+    "Typen": [
+      "Bug",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 667,
+    "Name": "Leufeo",
+    "Typen": [
+      "Fire",
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 668,
+    "Name": "Pyroleo",
+    "Typen": [
+      "Fire",
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 669,
+    "Name": "Flabébé",
+    "Typen": [
+      "Fairy"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 670,
+    "Name": "Floette",
+    "Typen": [
+      "Fairy"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 671,
+    "Name": "Florges",
+    "Typen": [
+      "Fairy"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 672,
+    "Name": "Mähikel",
+    "Typen": [
+      "Grass"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 673,
+    "Name": "Chevrumm",
+    "Typen": [
+      "Grass"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 674,
+    "Name": "Pam-Pam",
+    "Typen": [
+      "Fighting"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 675,
+    "Name": "Pandagro",
+    "Typen": [
+      "Fighting",
+      "Dark"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 676,
+    "Name": "Coiffwaff",
+    "Typen": [
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 677,
+    "Name": "Psiau",
+    "Typen": [
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 678,
+    "Name": "Psiaugon",
+    "Typen": [
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 679,
+    "Name": "Gramokles",
+    "Typen": [
+      "Steel",
+      "Ghost"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 680,
+    "Name": "Duokles",
+    "Typen": [
+      "Steel",
+      "Ghost"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 681,
+    "Name": "Durengard",
+    "Typen": [
+      "Steel",
+      "Ghost"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 682,
+    "Name": "Parfi",
+    "Typen": [
+      "Fairy"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 683,
+    "Name": "Parfinesse",
+    "Typen": [
+      "Fairy"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 684,
+    "Name": "Flauschling",
+    "Typen": [
+      "Fairy"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 685,
+    "Name": "Sabbaione",
+    "Typen": [
+      "Fairy"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 686,
+    "Name": "Iscalar",
+    "Typen": [
+      "Dark",
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 687,
+    "Name": "Calamanero",
+    "Typen": [
+      "Dark",
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 688,
+    "Name": "Bithora",
+    "Typen": [
+      "Rock",
+      "Water"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 689,
+    "Name": "Thanathora",
+    "Typen": [
+      "Rock",
+      "Water"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 690,
+    "Name": "Algitt",
+    "Typen": [
+      "Poison",
+      "Water"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 691,
+    "Name": "Tandrak",
+    "Typen": [
+      "Poison",
+      "Dragon"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 692,
+    "Name": "Scampisto",
+    "Typen": [
+      "Water"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 693,
+    "Name": "Wummer",
+    "Typen": [
+      "Water"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 694,
+    "Name": "Eguana",
+    "Typen": [
+      "Electric",
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 695,
+    "Name": "Elezard",
+    "Typen": [
+      "Electric",
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 696,
+    "Name": "Balgoras",
+    "Typen": [
+      "Rock",
+      "Dragon"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 697,
+    "Name": "Monargoras",
+    "Typen": [
+      "Rock",
+      "Dragon"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 698,
+    "Name": "Amarino",
+    "Typen": [
+      "Rock",
+      "Ice"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 699,
+    "Name": "Amagarga",
+    "Typen": [
+      "Rock",
+      "Ice"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 700,
+    "Name": "Feelinara",
+    "Typen": [
+      "Fairy"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 701,
+    "Name": "Resladero",
+    "Typen": [
+      "Fighting",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 702,
+    "Name": "Dedenne",
+    "Typen": [
+      "Electric",
+      "Fairy"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 703,
+    "Name": "Rocara",
+    "Typen": [
+      "Rock",
+      "Fairy"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 704,
+    "Name": "Viscora",
+    "Typen": [
+      "Dragon"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 705,
+    "Name": "Viscargot",
+    "Typen": [
+      "Dragon"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 706,
+    "Name": "Viscogon",
+    "Typen": [
+      "Dragon"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 707,
+    "Name": "Clavion",
+    "Typen": [
+      "Steel",
+      "Fairy"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 708,
+    "Name": "Paragoni",
+    "Typen": [
+      "Ghost",
+      "Grass"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 709,
+    "Name": "Trombork",
+    "Typen": [
+      "Ghost",
+      "Grass"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 710,
+    "Name": "Irrbis",
+    "Typen": [
+      "Ghost",
+      "Grass"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 711,
+    "Name": "Pumpdjinn",
+    "Typen": [
+      "Ghost",
+      "Grass"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 712,
+    "Name": "Arktip",
+    "Typen": [
+      "Ice"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 713,
+    "Name": "Arktilas",
+    "Typen": [
+      "Ice"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 714,
+    "Name": "eF-eM",
+    "Typen": [
+      "Flying",
+      "Dragon"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 715,
+    "Name": "UHaFnir",
+    "Typen": [
+      "Flying",
+      "Dragon"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 716,
+    "Name": "Xerneas",
+    "Typen": [
+      "Fairy"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 717,
+    "Name": "Yveltal",
+    "Typen": [
+      "Dark",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 718,
+    "Name": "Zygarde",
+    "Typen": [
+      "Dragon",
+      "Ground"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 719,
+    "Name": "Diancie",
+    "Typen": [
+      "Rock",
+      "Fairy"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 720,
+    "Name": "Hoopa",
+    "Typen": [
+      "Psychic",
+      "Ghost"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 721,
+    "Name": "Volcanion",
+    "Typen": [
+      "Fire",
+      "Water"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 722,
+    "Name": "Bauz",
+    "Typen": [
+      "Grass",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 723,
+    "Name": "Arboretoss",
+    "Typen": [
+      "Grass",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 724,
+    "Name": "Silvarro",
+    "Typen": [
+      "Grass",
+      "Ghost"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 725,
+    "Name": "Flamiau",
+    "Typen": [
+      "Fire"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 726,
+    "Name": "Miezunder",
+    "Typen": [
+      "Fire"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 727,
+    "Name": "Fuegro",
+    "Typen": [
+      "Fire",
+      "Dark"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 728,
+    "Name": "Robball",
+    "Typen": [
+      "Water"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 729,
+    "Name": "Marikeck",
+    "Typen": [
+      "Water"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 730,
+    "Name": "Primarene",
+    "Typen": [
+      "Water",
+      "Fairy"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 731,
+    "Name": "Peppeck",
+    "Typen": [
+      "Normal",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 732,
+    "Name": "Trompeck",
+    "Typen": [
+      "Normal",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 733,
+    "Name": "Tukanon",
+    "Typen": [
+      "Normal",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 734,
+    "Name": "Mangunior",
+    "Typen": [
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 735,
+    "Name": "Manguspektor",
+    "Typen": [
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 736,
+    "Name": "Mabula",
+    "Typen": [
+      "Bug"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 737,
+    "Name": "Akkup",
+    "Typen": [
+      "Bug",
+      "Electric"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 738,
+    "Name": "Donarion",
+    "Typen": [
+      "Bug",
+      "Electric"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 739,
+    "Name": "Krabbox",
+    "Typen": [
+      "Fighting"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 740,
+    "Name": "Krawell",
+    "Typen": [
+      "Fighting",
+      "Ice"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 741,
+    "Name": "Choreogel",
+    "Typen": [
+      "Fire",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 742,
+    "Name": "Wommel",
+    "Typen": [
+      "Bug",
+      "Fairy"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 743,
+    "Name": "Bandelby",
+    "Typen": [
+      "Bug",
+      "Fairy"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 744,
+    "Name": "Wuffels",
+    "Typen": [
+      "Rock"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 745,
+    "Name": "Wolwerock",
+    "Typen": [
+      "Rock"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 746,
+    "Name": "Lusardin",
+    "Typen": [
+      "Water"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 747,
+    "Name": "Garstella",
+    "Typen": [
+      "Poison",
+      "Water"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 748,
+    "Name": "Aggrostella",
+    "Typen": [
+      "Poison",
+      "Water"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 749,
+    "Name": "Pampuli",
+    "Typen": [
+      "Ground"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 750,
+    "Name": "Pampross",
+    "Typen": [
+      "Ground"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 751,
+    "Name": "Araqua",
+    "Typen": [
+      "Water",
+      "Bug"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 752,
+    "Name": "Aranestro",
+    "Typen": [
+      "Water",
+      "Bug"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 753,
+    "Name": "Imantis",
+    "Typen": [
+      "Grass"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 754,
+    "Name": "Mantidea",
+    "Typen": [
+      "Grass"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 755,
+    "Name": "Bubungus",
+    "Typen": [
+      "Grass",
+      "Fairy"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 756,
+    "Name": "Lamellux",
+    "Typen": [
+      "Grass",
+      "Fairy"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 757,
+    "Name": "Molunk",
+    "Typen": [
+      "Poison",
+      "Fire"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 758,
+    "Name": "Amfira",
+    "Typen": [
+      "Poison",
+      "Fire"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 759,
+    "Name": "Velursi",
+    "Typen": [
+      "Normal",
+      "Fighting"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 760,
+    "Name": "Kosturso",
+    "Typen": [
+      "Normal",
+      "Fighting"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 761,
+    "Name": "Frubberl",
+    "Typen": [
+      "Grass"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 762,
+    "Name": "Frubaila",
+    "Typen": [
+      "Grass"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 763,
+    "Name": "Fruyal",
+    "Typen": [
+      "Grass"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 764,
+    "Name": "Curelei",
+    "Typen": [
+      "Fairy"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 765,
+    "Name": "Kommandutan",
+    "Typen": [
+      "Normal",
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 766,
+    "Name": "Quartermak",
+    "Typen": [
+      "Fighting"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 767,
+    "Name": "Reißlaus",
+    "Typen": [
+      "Bug",
+      "Water"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 768,
+    "Name": "Tectass",
+    "Typen": [
+      "Bug",
+      "Water"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 769,
+    "Name": "Sankabuh",
+    "Typen": [
+      "Ghost",
+      "Ground"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 770,
+    "Name": "Colossand",
+    "Typen": [
+      "Ghost",
+      "Ground"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 771,
+    "Name": "Gufa",
+    "Typen": [
+      "Water"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 772,
+    "Name": "Typ:Null",
+    "Typen": [
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 773,
+    "Name": "Amigento",
+    "Typen": [
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 774,
+    "Name": "Meteno",
+    "Typen": [
+      "Rock",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 775,
+    "Name": "Koalelu",
+    "Typen": [
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 776,
+    "Name": "Tortunator",
+    "Typen": [
+      "Fire",
+      "Dragon"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 777,
+    "Name": "Togedemaru",
+    "Typen": [
+      "Electric",
+      "Steel"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 778,
+    "Name": "Mimigma",
+    "Typen": [
+      "Ghost",
+      "Fairy"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 779,
+    "Name": "Knirfish",
+    "Typen": [
+      "Water",
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 780,
+    "Name": "Sen-Long",
+    "Typen": [
+      "Normal",
+      "Dragon"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 781,
+    "Name": "Moruda",
+    "Typen": [
+      "Ghost",
+      "Grass"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 782,
+    "Name": "Miniras",
+    "Typen": [
+      "Dragon"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 783,
+    "Name": "Mediras",
+    "Typen": [
+      "Dragon",
+      "Fighting"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 784,
+    "Name": "Grandiras",
+    "Typen": [
+      "Dragon",
+      "Fighting"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 785,
+    "Name": "Kapu-Riki",
+    "Typen": [
+      "Electric",
+      "Fairy"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 786,
+    "Name": "Kapu-Fala",
+    "Typen": [
+      "Psychic",
+      "Fairy"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 787,
+    "Name": "Kapu-Toro",
+    "Typen": [
+      "Grass",
+      "Fairy"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 788,
+    "Name": "Kapu-Kime",
+    "Typen": [
+      "Water",
+      "Fairy"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 789,
+    "Name": "Cosmog",
+    "Typen": [
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 790,
+    "Name": "Cosmovum",
+    "Typen": [
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 791,
+    "Name": "Solgaleo",
+    "Typen": [
+      "Psychic",
+      "Steel"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 792,
+    "Name": "Lunala",
+    "Typen": [
+      "Psychic",
+      "Ghost"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 793,
+    "Name": "Anego",
+    "Typen": [
+      "Rock",
+      "Poison"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 794,
+    "Name": "Masskito",
+    "Typen": [
+      "Bug",
+      "Fighting"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 795,
+    "Name": "Schabelle",
+    "Typen": [
+      "Bug",
+      "Fighting"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 796,
+    "Name": "Voltriant",
+    "Typen": [
+      "Electric"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 797,
+    "Name": "Kaguron",
+    "Typen": [
+      "Steel",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 798,
+    "Name": "Katagami",
+    "Typen": [
+      "Grass",
+      "Steel"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 799,
+    "Name": "Schlingking",
+    "Typen": [
+      "Dark",
+      "Dragon"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 800,
+    "Name": "Necrozma",
+    "Typen": [
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 801,
+    "Name": "Magearna",
+    "Typen": [
+      "Steel",
+      "Fairy"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 802,
+    "Name": "Marshadow",
+    "Typen": [
+      "Fighting",
+      "Ghost"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 803,
+    "Name": "Venicro",
+    "Typen": [
+      "Poison"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 804,
+    "Name": "Agoyon",
+    "Typen": [
+      "Poison",
+      "Dragon"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 805,
+    "Name": "Muramura",
+    "Typen": [
+      "Rock",
+      "Steel"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 806,
+    "Name": "Kopplosio",
+    "Typen": [
+      "Fire",
+      "Ghost"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 807,
+    "Name": "Zeraora",
+    "Typen": [
+      "Electric"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 808,
+    "Name": "Meltan",
+    "Typen": [
+      "Steel"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 809,
+    "Name": "Melmetal",
+    "Typen": [
+      "Steel"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 810,
+    "Name": "Chimpep",
+    "Typen": [
+      "Grass"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 811,
+    "Name": "Chimstix",
+    "Typen": [
+      "Grass"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 812,
+    "Name": "Gortrom",
+    "Typen": [
+      "Grass"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 813,
+    "Name": "Hopplo",
+    "Typen": [
+      "Fire"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 814,
+    "Name": "Kickerlo",
+    "Typen": [
+      "Fire"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 815,
+    "Name": "Liberlo",
+    "Typen": [
+      "Fire"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 816,
+    "Name": "Memmeon",
+    "Typen": [
+      "Water"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 817,
+    "Name": "Phlegleon",
+    "Typen": [
+      "Water"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 818,
+    "Name": "Intelleon",
+    "Typen": [
+      "Water"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 819,
+    "Name": "Raffel",
+    "Typen": [
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 820,
+    "Name": "Schlaraffel",
+    "Typen": [
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 821,
+    "Name": "Meikro",
+    "Typen": [
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 822,
+    "Name": "Kranoviz",
+    "Typen": [
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 823,
+    "Name": "Krarmor",
+    "Typen": [
+      "Flying",
+      "Steel"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 824,
+    "Name": "Sensect",
+    "Typen": [
+      "Bug"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 825,
+    "Name": "Keradar",
+    "Typen": [
+      "Bug",
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 826,
+    "Name": "Maritellit",
+    "Typen": [
+      "Bug",
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 827,
+    "Name": "Kleptifux",
+    "Typen": [
+      "Dark"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 828,
+    "Name": "Gaunux",
+    "Typen": [
+      "Dark"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 829,
+    "Name": "Cottini",
+    "Typen": [
+      "Grass"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 830,
+    "Name": "Cottomi",
+    "Typen": [
+      "Grass"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 831,
+    "Name": "Wolly",
+    "Typen": [
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 832,
+    "Name": "Zwollock",
+    "Typen": [
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 833,
+    "Name": "Kamehaps",
+    "Typen": [
+      "Water"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 834,
+    "Name": "Kamalm",
+    "Typen": [
+      "Water",
+      "Rock"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 835,
+    "Name": "Voldi",
+    "Typen": [
+      "Electric"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 836,
+    "Name": "Bellektro",
+    "Typen": [
+      "Electric"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 837,
+    "Name": "Klonkett",
+    "Typen": [
+      "Rock"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 838,
+    "Name": "Wagong",
+    "Typen": [
+      "Rock",
+      "Fire"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 839,
+    "Name": "Montecarbo",
+    "Typen": [
+      "Rock",
+      "Fire"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 840,
+    "Name": "Knapfel",
+    "Typen": [
+      "Grass",
+      "Dragon"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 841,
+    "Name": "Drapfel",
+    "Typen": [
+      "Grass",
+      "Dragon"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 842,
+    "Name": "Schlapfel",
+    "Typen": [
+      "Grass",
+      "Dragon"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 843,
+    "Name": "Salanga",
+    "Typen": [
+      "Ground"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 844,
+    "Name": "Sanaconda",
+    "Typen": [
+      "Ground"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 845,
+    "Name": "Urgl",
+    "Typen": [
+      "Flying",
+      "Water"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 846,
+    "Name": "Pikuda",
+    "Typen": [
+      "Water"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 847,
+    "Name": "Barrakiefa",
+    "Typen": [
+      "Water"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 848,
+    "Name": "Toxel",
+    "Typen": [
+      "Electric",
+      "Poison"
+    ],
+    "Entwicklungsstufe": "Baby"
+  },
+  {
+    "Pokedexnummer": 849,
+    "Name": "Riffex",
+    "Typen": [
+      "Electric",
+      "Poison"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 850,
+    "Name": "Thermopod",
+    "Typen": [
+      "Fire",
+      "Bug"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 851,
+    "Name": "Infernopod",
+    "Typen": [
+      "Fire",
+      "Bug"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 852,
+    "Name": "Klopptopus",
+    "Typen": [
+      "Fighting"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 853,
+    "Name": "Kaocto",
+    "Typen": [
+      "Fighting"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 854,
+    "Name": "Fatalitee",
+    "Typen": [
+      "Ghost"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 855,
+    "Name": "Mortipot",
+    "Typen": [
+      "Ghost"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 856,
+    "Name": "Brimova",
+    "Typen": [
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 857,
+    "Name": "Brimano",
+    "Typen": [
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 858,
+    "Name": "Silembrim",
+    "Typen": [
+      "Psychic",
+      "Fairy"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 859,
+    "Name": "Bähmon",
+    "Typen": [
+      "Dark",
+      "Fairy"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 860,
+    "Name": "Pelzebub",
+    "Typen": [
+      "Dark",
+      "Fairy"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 861,
+    "Name": "Olangaar",
+    "Typen": [
+      "Dark",
+      "Fairy"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 862,
+    "Name": "Barrikadax",
+    "Typen": [
+      "Dark",
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 863,
+    "Name": "Mauzinger",
+    "Typen": [
+      "Steel"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 864,
+    "Name": "Gorgasonn",
+    "Typen": [
+      "Ghost"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 865,
+    "Name": "Lauchzelot",
+    "Typen": [
+      "Fighting"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 866,
+    "Name": "Pantifrost",
+    "Typen": [
+      "Ice",
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 867,
+    "Name": "Oghnatoll",
+    "Typen": [
+      "Ground",
+      "Ghost"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 868,
+    "Name": "Hokumil",
+    "Typen": [
+      "Fairy"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 869,
+    "Name": "Pokusan",
+    "Typen": [
+      "Fairy"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 870,
+    "Name": "Legios",
+    "Typen": [
+      "Fighting"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 871,
+    "Name": "Britzigel",
+    "Typen": [
+      "Electric"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 872,
+    "Name": "Snomnom",
+    "Typen": [
+      "Ice",
+      "Bug"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 873,
+    "Name": "Mottineva",
+    "Typen": [
+      "Ice",
+      "Bug"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 874,
+    "Name": "Humanolith",
+    "Typen": [
+      "Rock"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 875,
+    "Name": "Kubuin",
+    "Typen": [
+      "Ice"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 876,
+    "Name": "Servol",
+    "Typen": [
+      "Psychic",
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 877,
+    "Name": "Morpeko",
+    "Typen": [
+      "Electric",
+      "Dark"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 878,
+    "Name": "Kupfanti",
+    "Typen": [
+      "Steel"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 879,
+    "Name": "Patinaraja",
+    "Typen": [
+      "Steel"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 880,
+    "Name": "Lectragon",
+    "Typen": [
+      "Electric",
+      "Dragon"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 881,
+    "Name": "Lecryodon",
+    "Typen": [
+      "Electric",
+      "Ice"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 882,
+    "Name": "Pescragon",
+    "Typen": [
+      "Water",
+      "Dragon"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 883,
+    "Name": "Pescryodon",
+    "Typen": [
+      "Water",
+      "Ice"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 884,
+    "Name": "Duraludon",
+    "Typen": [
+      "Steel",
+      "Dragon"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 885,
+    "Name": "Grolldra",
+    "Typen": [
+      "Dragon",
+      "Ghost"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 886,
+    "Name": "Phandra",
+    "Typen": [
+      "Dragon",
+      "Ghost"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 887,
+    "Name": "Katapuldra",
+    "Typen": [
+      "Dragon",
+      "Ghost"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 888,
+    "Name": "Zacian",
+    "Typen": [
+      "Fairy"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 889,
+    "Name": "Zamazenta",
+    "Typen": [
+      "Fighting"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 890,
+    "Name": "Endynalos",
+    "Typen": [
+      "Poison",
+      "Dragon"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 891,
+    "Name": "Dakuma",
+    "Typen": [
+      "Fighting"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 892,
+    "Name": "Wulaosu",
+    "Typen": [
+      "Fighting",
+      "Dark"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 893,
+    "Name": "Zarude",
+    "Typen": [
+      "Dark",
+      "Grass"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 894,
+    "Name": "Regieleki",
+    "Typen": [
+      "Electric"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 895,
+    "Name": "Regidrago",
+    "Typen": [
+      "Dragon"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 896,
+    "Name": "Polaross",
+    "Typen": [
+      "Ice"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 897,
+    "Name": "Phantoross",
+    "Typen": [
+      "Ghost"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 898,
+    "Name": "Coronospa",
+    "Typen": [
+      "Psychic",
+      "Grass"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 899,
+    "Name": "Damythir",
+    "Typen": [
+      "Normal",
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 900,
+    "Name": "Axantor",
+    "Typen": [
+      "Bug",
+      "Rock"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 901,
+    "Name": "Ursaluna",
+    "Typen": [
+      "Ground",
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 902,
+    "Name": "Salmagnis",
+    "Typen": [
+      "Water",
+      "Ghost"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 903,
+    "Name": "Snieboss",
+    "Typen": [
+      "Fighting",
+      "Poison"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 904,
+    "Name": "Myriador",
+    "Typen": [
+      "Dark",
+      "Poison"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 905,
+    "Name": "Cupidos",
+    "Typen": [
+      "Fairy",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 906,
+    "Name": "Felori",
+    "Typen": [
+      "Grass"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 907,
+    "Name": "Feliospa",
+    "Typen": [
+      "Grass"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 908,
+    "Name": "Maskagato",
+    "Typen": [
+      "Grass",
+      "Dark"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 909,
+    "Name": "Krokel",
+    "Typen": [
+      "Fire"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 910,
+    "Name": "Lokroko",
+    "Typen": [
+      "Fire"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 911,
+    "Name": "Skelokrok",
+    "Typen": [
+      "Fire",
+      "Ghost"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 912,
+    "Name": "Kwaks",
+    "Typen": [
+      "Water"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 913,
+    "Name": "Fuentente",
+    "Typen": [
+      "Water"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 914,
+    "Name": "Bailonda",
+    "Typen": [
+      "Water",
+      "Fighting"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 915,
+    "Name": "Ferkuli",
+    "Typen": [
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 916,
+    "Name": "Fragrunz",
+    "Typen": [
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 917,
+    "Name": "Tarundel",
+    "Typen": [
+      "Bug"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 918,
+    "Name": "Spinsidias",
+    "Typen": [
+      "Bug"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 919,
+    "Name": "Micrick",
+    "Typen": [
+      "Bug"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 920,
+    "Name": "Lextremo",
+    "Typen": [
+      "Bug",
+      "Dark"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 921,
+    "Name": "Pamo",
+    "Typen": [
+      "Electric"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 922,
+    "Name": "Pamamo",
+    "Typen": [
+      "Electric",
+      "Fighting"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 923,
+    "Name": "Pamomamo",
+    "Typen": [
+      "Electric",
+      "Fighting"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 924,
+    "Name": "Zwieps",
+    "Typen": [
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 925,
+    "Name": "Famieps",
+    "Typen": [
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 926,
+    "Name": "Hefel",
+    "Typen": [
+      "Fairy"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 927,
+    "Name": "Backel",
+    "Typen": [
+      "Fairy"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 928,
+    "Name": "Olini",
+    "Typen": [
+      "Grass",
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 929,
+    "Name": "Olivinio",
+    "Typen": [
+      "Grass",
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 930,
+    "Name": "Olithena",
+    "Typen": [
+      "Grass",
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 931,
+    "Name": "Krawalloro",
+    "Typen": [
+      "Normal",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 932,
+    "Name": "Geosali",
+    "Typen": [
+      "Rock"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 933,
+    "Name": "Sedisal",
+    "Typen": [
+      "Rock"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 934,
+    "Name": "Saltigant",
+    "Typen": [
+      "Rock"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 935,
+    "Name": "Knarbon",
+    "Typen": [
+      "Fire"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 936,
+    "Name": "Crimanzo",
+    "Typen": [
+      "Fire",
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 937,
+    "Name": "Azugladis",
+    "Typen": [
+      "Fire",
+      "Ghost"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 938,
+    "Name": "Blipp",
+    "Typen": [
+      "Electric"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 939,
+    "Name": "Wampitz",
+    "Typen": [
+      "Electric"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 940,
+    "Name": "Voltrel",
+    "Typen": [
+      "Electric",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 941,
+    "Name": "Voltrean",
+    "Typen": [
+      "Electric",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 942,
+    "Name": "Mobtiff",
+    "Typen": [
+      "Dark"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 943,
+    "Name": "Mastifioso",
+    "Typen": [
+      "Dark"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 944,
+    "Name": "Sproxi",
+    "Typen": [
+      "Poison",
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 945,
+    "Name": "Affiti",
+    "Typen": [
+      "Poison",
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 946,
+    "Name": "Weherba",
+    "Typen": [
+      "Grass",
+      "Ghost"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 947,
+    "Name": "Horrerba",
+    "Typen": [
+      "Grass",
+      "Ghost"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 948,
+    "Name": "Tentagra",
+    "Typen": [
+      "Ground",
+      "Grass"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 949,
+    "Name": "Tenterra",
+    "Typen": [
+      "Ground",
+      "Grass"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 950,
+    "Name": "Klibbe",
+    "Typen": [
+      "Rock"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 951,
+    "Name": "Chilingel",
+    "Typen": [
+      "Grass"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 952,
+    "Name": "Halupenjo",
+    "Typen": [
+      "Grass",
+      "Fire"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 953,
+    "Name": "Relluk",
+    "Typen": [
+      "Bug"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 954,
+    "Name": "Skarabaks",
+    "Typen": [
+      "Bug",
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 955,
+    "Name": "Flattutu",
+    "Typen": [
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 956,
+    "Name": "Psiopatra",
+    "Typen": [
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 957,
+    "Name": "Forgita",
+    "Typen": [
+      "Fairy",
+      "Steel"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 958,
+    "Name": "Tafforgita",
+    "Typen": [
+      "Fairy",
+      "Steel"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 959,
+    "Name": "Granforgita",
+    "Typen": [
+      "Fairy",
+      "Steel"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 960,
+    "Name": "Schligda",
+    "Typen": [
+      "Water"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 961,
+    "Name": "Schligdri",
+    "Typen": [
+      "Water"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 962,
+    "Name": "Adebom",
+    "Typen": [
+      "Flying",
+      "Dark"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 963,
+    "Name": "Normifin",
+    "Typen": [
+      "Water"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 964,
+    "Name": "Delfinator",
+    "Typen": [
+      "Water"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 965,
+    "Name": "Knattox",
+    "Typen": [
+      "Steel",
+      "Poison"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 966,
+    "Name": "Knattatox",
+    "Typen": [
+      "Steel",
+      "Poison"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 967,
+    "Name": "Mopex",
+    "Typen": [
+      "Dragon",
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 968,
+    "Name": "Schlurm",
+    "Typen": [
+      "Steel"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 969,
+    "Name": "Lumispross",
+    "Typen": [
+      "Rock",
+      "Poison"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 970,
+    "Name": "Lumiflora",
+    "Typen": [
+      "Rock",
+      "Poison"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 971,
+    "Name": "Gruff",
+    "Typen": [
+      "Ghost"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 972,
+    "Name": "Friedwuff",
+    "Typen": [
+      "Ghost"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 973,
+    "Name": "Flaminkno",
+    "Typen": [
+      "Flying",
+      "Fighting"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 974,
+    "Name": "Flaniwal",
+    "Typen": [
+      "Ice"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 975,
+    "Name": "Kolowal",
+    "Typen": [
+      "Ice"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 976,
+    "Name": "Agiluza",
+    "Typen": [
+      "Water",
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 977,
+    "Name": "Heerashai",
+    "Typen": [
+      "Water"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 978,
+    "Name": "Nigiragi",
+    "Typen": [
+      "Dragon",
+      "Water"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 979,
+    "Name": "Epitaff",
+    "Typen": [
+      "Fighting",
+      "Ghost"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 980,
+    "Name": "Suelord",
+    "Typen": [
+      "Poison",
+      "Ground"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 981,
+    "Name": "Farigiraf",
+    "Typen": [
+      "Normal",
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 982,
+    "Name": "Dummimisel",
+    "Typen": [
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 983,
+    "Name": "Gladimperio",
+    "Typen": [
+      "Dark",
+      "Steel"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 984,
+    "Name": "Riesenzahn",
+    "Typen": [
+      "Ground",
+      "Fighting"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 985,
+    "Name": "Brüllschweif",
+    "Typen": [
+      "Fairy",
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 986,
+    "Name": "Wutpilz",
+    "Typen": [
+      "Grass",
+      "Dark"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 987,
+    "Name": "Flatterhaar",
+    "Typen": [
+      "Ghost",
+      "Fairy"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 988,
+    "Name": "Kriechflügel",
+    "Typen": [
+      "Bug",
+      "Fighting"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 989,
+    "Name": "Sandfell",
+    "Typen": [
+      "Electric",
+      "Ground"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 990,
+    "Name": "Eisenrad",
+    "Typen": [
+      "Ground",
+      "Steel"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 991,
+    "Name": "Eisenbündel",
+    "Typen": [
+      "Ice",
+      "Water"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 992,
+    "Name": "Eisenhand",
+    "Typen": [
+      "Fighting",
+      "Electric"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 993,
+    "Name": "Eisenhals",
+    "Typen": [
+      "Dark",
+      "Flying"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 994,
+    "Name": "Eisenfalter",
+    "Typen": [
+      "Fire",
+      "Poison"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 995,
+    "Name": "Eisendorn",
+    "Typen": [
+      "Rock",
+      "Electric"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 996,
+    "Name": "Frospino",
+    "Typen": [
+      "Dragon",
+      "Ice"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 997,
+    "Name": "Cryospino",
+    "Typen": [
+      "Dragon",
+      "Ice"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 998,
+    "Name": "Espinodon",
+    "Typen": [
+      "Dragon",
+      "Ice"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 999,
+    "Name": "Gierspenst",
+    "Typen": [
+      "Ghost"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 1000,
+    "Name": "Monetigo",
+    "Typen": [
+      "Steel",
+      "Ghost"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 1001,
+    "Name": "Chongjian",
+    "Typen": [
+      "Dark",
+      "Grass"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 1002,
+    "Name": "Baojian",
+    "Typen": [
+      "Dark",
+      "Ice"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 1003,
+    "Name": "Dinglu",
+    "Typen": [
+      "Dark",
+      "Ground"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 1004,
+    "Name": "Yuyu",
+    "Typen": [
+      "Dark",
+      "Fire"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 1005,
+    "Name": "Donnersichel",
+    "Typen": [
+      "Dragon",
+      "Dark"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 1006,
+    "Name": "Eisenkrieger",
+    "Typen": [
+      "Fairy",
+      "Fighting"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 1007,
+    "Name": "Koraidon",
+    "Typen": [
+      "Fighting",
+      "Dragon"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 1008,
+    "Name": "Miraidon",
+    "Typen": [
+      "Electric",
+      "Dragon"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 1009,
+    "Name": "Windewoge",
+    "Typen": [
+      "Water",
+      "Dragon"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 1010,
+    "Name": "Eisenblatt",
+    "Typen": [
+      "Grass",
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 1011,
+    "Name": "Sirapfel",
+    "Typen": [
+      "Grass",
+      "Dragon"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 1012,
+    "Name": "Mortcha",
+    "Typen": [
+      "Grass",
+      "Ghost"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 1013,
+    "Name": "Fatalitcha",
+    "Typen": [
+      "Grass",
+      "Ghost"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 1014,
+    "Name": "Boninu",
+    "Typen": [
+      "Poison",
+      "Fighting"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 1015,
+    "Name": "Benesaru",
+    "Typen": [
+      "Poison",
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 1016,
+    "Name": "Beatori",
+    "Typen": [
+      "Poison",
+      "Fairy"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 1017,
+    "Name": "Ogerpon",
+    "Typen": [
+      "Grass"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 1018,
+    "Name": "Briduradon",
+    "Typen": [
+      "Steel",
+      "Dragon"
+    ],
+    "Entwicklungsstufe": "Phase 1"
+  },
+  {
+    "Pokedexnummer": 1019,
+    "Name": "Hydrapfel",
+    "Typen": [
+      "Grass",
+      "Dragon"
+    ],
+    "Entwicklungsstufe": "Phase 2"
+  },
+  {
+    "Pokedexnummer": 1020,
+    "Name": "Keilflamme",
+    "Typen": [
+      "Fire",
+      "Dragon"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 1021,
+    "Name": "Furienblitz",
+    "Typen": [
+      "Electric",
+      "Dragon"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 1022,
+    "Name": "Eisenfels",
+    "Typen": [
+      "Rock",
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 1023,
+    "Name": "Eisenhaupt",
+    "Typen": [
+      "Steel",
+      "Psychic"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 1024,
+    "Name": "Terapagos",
+    "Typen": [
+      "Normal"
+    ],
+    "Entwicklungsstufe": "Basis"
+  },
+  {
+    "Pokedexnummer": 1025,
+    "Name": "Infamomo",
+    "Typen": [
+      "Poison",
+      "Ghost"
+    ],
+    "Entwicklungsstufe": "Basis"
+  }
+]
